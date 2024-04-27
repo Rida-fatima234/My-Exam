@@ -1,0 +1,31 @@
+.bg-custom{
+    background: linear-gradient(#FFcfa3,white
+    );
+}
+.btn-custom{
+    background: linear-gradient(orange,yellow);
+    color: black;
+    border-radius: 20px;
+    width: 90px;
+}
+.btn-custom:hover{
+    background-color: gray;
+    color: black;
+}
+.padd-c{
+    padding-left: 60px;
+}
+
+.btn-cc{
+    background: linear-gradient(orange,yellow);
+}
+.gap-c{
+    gap: 10px;
+}
+.btn-customs{
+    background: linear-gradient(orange,yellow);
+    color: black;
+    border-radius: 20px;
+    width: 150px;
+}
+
